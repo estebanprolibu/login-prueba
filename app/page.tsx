@@ -4,9 +4,7 @@ export default function Home() {
     <main>
       <h1>Login</h1>
 
-      <a href="virtualcapture://" target="_blank">
-        Abrir en la aplicación
-      </a>
+      <a href="virtualcapture://">Abrir en la aplicación</a>
     </main>
   )
 }
